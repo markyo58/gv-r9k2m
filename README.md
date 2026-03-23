@@ -2,7 +2,7 @@
 
 > Reference page for Grok. Updated nightly by Max (Claude Cowork).
 > **Last updated:** 2026-03-23
-> Full vault: private GitHub repo (markyo58/GrandDadVault)
+> Full vault: private (not publicly accessible)
 
 ---
 

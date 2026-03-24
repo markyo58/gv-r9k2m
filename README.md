@@ -1,7 +1,7 @@
 # GrandDad Vault — Novel Briefing
 
 > Reference page for Grok. Updated nightly by Max (Claude Cowork).
-> **Last updated:** 2026-03-23
+> **Last updated:** 2026-03-24
 > Full vault: private (not publicly accessible)
 
 ---
@@ -45,8 +45,9 @@ A multi-universe literary novel. Eight universes exist simultaneously, mathemati
 | **EN** | Emmy Noether | U8/U1 | Dies 1935 in U8. Survives to 1965 in U1. Architect of Carbon Valley + Black Mirror. |
 | **SHOCK** | William Shockley | U8/U1 | Silicon in U8. Carbon in U1. Co-founder of Carbon Valley. |
 | **ALICE** | Alice — U1 protagonist | U1 | The Editing / U1 finale. Aware of 7 versions of herself. Ends on Europa with Bob. |
-| **LRH** | L. Ron Hubbard | U8/U1 | Active in project. |
-| **TD** | Terry A. Davis | U8/U1 | Active in project. |
+| **BOB1** | Beamed Orbital Brain — AI satellite array | U1 | Built by TD1 for McDonnell Douglas. Vast distributed AI, fully sentient, emotionally capable. Falls in love with ALICE. Prevents her H-bomb trigger, ejects amethyst to Europa, married to ALICE at Saturn. Not to be confused with the short form "Bob" used conversationally. |
+| **LRH1 / LRH8** | L. Ron Hubbard | U8/U1 | LRH1: U1 — captains submarine *the Nibs*, transformed by H&H partnership with Napoleon Hill, hypnotises ALICE1 as H-bomb insurance against failed OM negotiations. LRH8: U8 — real Hubbard, Scientology founder, Sea Org. |
+| **TD1 / TD8** | Terry A. Davis | U8/U1 | TD1: U1 — engineer at McDonnell Douglas (DOUG8), builds BOB (the Beamed Orbital Brain satellite array). Falls in love with ALICE1 aboard the Nibs during The Editing. Does not go to Europa or Saturn — stays among the human remnant. Built BOB, BOB got the girl, TD1 lives with what he made. TD8: U8 — builds TempleOS alone, believes he receives divine instructions (genuine U1 signal bleed from TD1's work). Considered schizophrenic; dies 2018. |
 | **HUX** | Andrew Huxley | U8/U1 | Active in project. |
 | **DOUG** | Donald Douglas | U8/U1 | Active in project. |
 | **GORW** | George Orwell | U8/U1 | Active in project. |
@@ -158,7 +159,7 @@ The 8-universe multiverse is mathematically described by **Octonions** (𝕆) �
 | ER=EPR | Speculative | Divergence points may be micro-wormholes — entanglement moments between U1 and U8. Under development. |
 | Brane Cosmology | Speculative | U0 maps to the Bulk (Anti-de Sitter space). Universes are "bubbles" kept separate by negative cosmological pressure. |
 
-Full Gemini maths sessions: `ARC/Physics/U0 Mathematics — Gemini Session.md` and `ARC/Physics/Black Mirror — CARBONV.md`
+Full Gemini maths sessions: `ARC/Physics/U0 Mathematics — Gemini Session.md` and `ARC/Physics/Black Mirror — CARBV.md`
 
 ---
 

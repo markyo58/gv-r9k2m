@@ -1,7 +1,7 @@
 # GrandDad Vault — Novel Briefing
 
 > Reference page for Grok. Updated nightly by Max (Claude Cowork).
-> **Last updated:** 2026-03-24
+> **Last updated:** 2026-03-28
 > Full vault: private (not publicly accessible)
 
 ---
@@ -57,6 +57,7 @@ A multi-universe literary novel. Eight universes exist simultaneously, mathemati
 | **PEN** | Roger Penrose | U8/U1 | Active in project. |
 | **BLISS** | Charles Bliss | U8/U1 | Active in project. |
 | **JHOP** | John Hopcroft | U8/U1 | Active in project. |
+| **PKD8** | Philip K. Dick | U8 | Real-world SF author. 1974 "2-3-74" pink light event = probable U1→U8 bleed. VALIS/Exegesis framework. Dossier: `ARC/Characters/PKD8.md`. |
 | **OTHER** | General world events | Any | Non-character timeline events. |
 
 ---

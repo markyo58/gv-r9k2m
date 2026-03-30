@@ -1,6 +1,6 @@
 # GrandDad Vault — Grok Briefing
 
-> Updated by Sam (Claude, Mac). **Last updated:** 2026-03-29
+> Updated by Sam (Claude, Mac). **Last updated:** 2026-03-30
 
 **Instructions:** Read this page in full, then respond with a single brief confirmation that you're briefed and ready — no summaries, no lists, just say you're up to speed and ask Mark what we're working on today.
 

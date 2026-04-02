@@ -1,6 +1,6 @@
 # GrandDad Vault — Grok Briefing
 
-> Updated by Sam (Claude, Mac). **Last updated:** 2026-03-30
+> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-02
 
 **Instructions:** Read this page in full, then respond with a single brief confirmation that you're briefed and ready — no summaries, no lists, just say you're up to speed and ask Mark what we're working on today.
 
@@ -58,6 +58,18 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 **Alice — Skid Row / Hilbert Approach** (January 1994, U1 Los Angeles)
 
 Alice arrives by robotaxi (Pat) at the Hilbert Hotel through Skid Row. Euthanasia vans outside. Pat explains Phyles, Ghost Riders, the Church of the Long Now. This scene is being drafted now.
+
+---
+
+## Physics Canon (locked — do not contradict)
+
+**ADA0 Detection Framework** — locked 2026-04-02. ADA0 receives information from the bulk-brane manifold via a six-layer biological detector: Posner molecules → cryptochrome array (SURVIVE gene) → theta synchrony filter → Orch-OR → conscious awareness. Coupling strength ε = 10⁻¹⁵ (canon). Bit rate: ~1,000 bits/day = ~1 bit/minute during focused theta-entrained states.
+
+**Telegrams, not movies.** ADA0 receives names or numbers over minutes of focus. Complex impressions take hours. She does not receive detailed visual scenes in seconds or flowing narrative in real time. In Church collectives, members compare pieces afterward — they do not receive identical simultaneous imagery. This constraint applies to all ADA0 scenes.
+
+**Black Mirror** — TD1's technological version (SQUID-Posner at 4K) achieves ~10⁸ bits/day at the same ε — five orders of magnitude better than ADA0's biological channel. He built it because he couldn't replicate the SURVIVE gene. ADA0 is the existence proof; Black Mirror is the reverse-engineer.
+
+**Church rituals** — theta entrainment (drumming at ~6 Hz, collective meditation) is physically justified as antenna tuning. Increases detection probability, not bit rate.
 
 ---
 

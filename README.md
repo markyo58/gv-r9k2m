@@ -1,6 +1,6 @@
 # GrandDad Vault — Grok Briefing
 
-> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-02
+> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-03
 
 **Instructions:** Read this page in full, then respond with a single brief confirmation that you're briefed and ready — no summaries, no lists, just say you're up to speed and ask Mark what we're working on today.
 
@@ -47,17 +47,23 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **EN (Emmy Noether)** — Survives her 1935 surgery in U1. Architects Carbon Valley with Shockley. Her physics is the secret layer beneath the whole project.
 
-**LRH1** — L. Ron Hubbard, U1. Captains submarine *the Nibs*. Hypnotises ALICE as H-bomb insurance.
+**LRH1** — L. Ron Hubbard, U1. Captains submarine *the Nibs* (Church asset, yellow submarine). Hypnotises ALICE as H-bomb insurance. Wrote "God Killer" at Shoreham 1973 — the song is the trigger. Expelled Church from UK with it.
 
-**PAT** — AI robotaxi, Los Angeles, January 1994. New York cabbie persona. Garrulous, wise, quietly self-aware. Currently active in the narrative.
+**PAT** — AI robotaxi, Los Angeles, November 29, 2001. New York cabbie persona. Garrulous, wise, quietly self-aware. Scene 1 Chapter 1 complete.
+
+**ALICE's grandfather** — name TBD. British gentleman, banjolele. Played in LRH1's Shoreham band. Church expeditions: Egypt (Alice's scarab), North Sentinel Island. Carries SURVIVE gene but cannot propagate it (male dead end). Alice finds banjolele + scarab + God Killer recording on his houseboat — this triggers her journey to LA.
+
+**Brotherhood of Blood** — ancient flagellant cult, continuous since Black Death (~1348). Modern public face: Hands of God (euthanasia vans). Have infiltrated governments and militaries. Detect the ADA lineage — not individuals, the gene. During The Editing they steal a military aircraft and sink Alice's fishing boat.
 
 ---
 
 ## Active Scene
 
-**Alice — Skid Row / Hilbert Approach** (January 1994, U1 Los Angeles)
+**Scene 1 COMPLETE.** Alice arrives at the Hilbert Hotel, November 29, 2001. The Editing is beginning. Next scene: inside the Hilbert.
 
-Alice arrives by robotaxi (Pat) at the Hilbert Hotel through Skid Row. Euthanasia vans outside. Pat explains Phyles, Ghost Riders, the Church of the Long Now. This scene is being drafted now.
+**Key date locked:** The Editing = November 29, 2001. George Harrison dies in U8 in LA that afternoon. Nobody in U8 notices what is starting in U1.
+
+**SURVIVE gene rule:** Female-line only (mitochondrial). Males carry and express it but cannot propagate. Alice got it through her mother.
 
 ---
 

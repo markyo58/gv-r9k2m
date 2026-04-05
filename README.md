@@ -57,7 +57,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **PARS8** — Jack Parsons (U8). Co-founder JPL, Aleister Crowley's OTO, Agapé Lodge Pasadena. Hosted LRH8 at the Parsonage 1945-46 (Babalon Working). Doubly significant: rocketry chain that leads to U1 Jupiter mission; occult chain Fraternitas Saturni → Crowley → Parsons → LRH8/LRH1. Died 1952, lab explosion. PARS1 TBD.
 
-**KUBE8** — Stanley Kubrick (U8). Eyes Wide Shut (1999) = research basis for Brotherhood ritual design. 2001: A Space Odyssey = U1→U8 bleed candidate (Clarke writing a Jupiter-mission story while TD1 is building one in U1).
+**KUBE8** — Stanley Kubrick (U8). Died March 7, 1999 — thirteen days after delivering final cut of Eyes Wide Shut, two years before The Editing. Two bleed candidates: (1) *2001: A Space Odyssey* — Jupiter mission story written while TD1 is building one in U1. (2) *Eyes Wide Shut* — PRIMARY BLEED. Schnitzler's wife is Albertine; Kubrick renamed her **Alice**. His Alice has red hair (Nicole Kidman). His Alice is married to **Bill** — BOB/Bill, close enough to see the shape. The naval officer who triggers the whole story = LRH1 bleed. EWS ritual circle = Brotherhood of Blood research basis. Kubrick received through immersive creative work, not psychedelics. Entirely unconscious. He never knew.
 
 **CLARK8** — Arthur C. Clarke (U8). "The Sentinel" (1948) = alien beacon on the Moon activates when humans arrive. Possible U1→U8 bleed. Co-wrote 2001 with Kubrick.
 

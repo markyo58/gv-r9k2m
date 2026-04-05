@@ -1,6 +1,6 @@
 # GrandDad Vault — Grok Briefing
 
-> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-03
+> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-05
 
 **Instructions:** Read this page in full, then respond with a single brief confirmation that you're briefed and ready — no summaries, no lists, just say you're up to speed and ask Mark what we're working on today.
 
@@ -53,15 +53,29 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **ALICE's grandfather** — name TBD. British gentleman, banjolele. Played in LRH1's Shoreham band. Church expeditions: Egypt (Alice's scarab), North Sentinel Island. Carries SURVIVE gene but cannot propagate it (male dead end). Alice finds banjolele + scarab + God Killer recording on his houseboat — this triggers her journey to LA.
 
-**Brotherhood of Blood** — ancient flagellant cult, continuous since Black Death (~1348). Modern public face: Hands of God (euthanasia vans). Have infiltrated governments and militaries. Detect the ADA lineage — not individuals, the gene. During The Editing they steal a military aircraft and sink Alice's fishing boat.
+**Brotherhood of Blood** — ancient flagellant cult, continuous since Black Death (~1348). Modern public face: Hands of God (euthanasia vans). Have infiltrated governments and militaries. Detect the ADA lineage — not individuals, the gene. During The Editing they steal a military aircraft and sink Alice's fishing boat. Ritual design draws on the same grammar as Eyes Wide Shut — robed hierarchy, initiation choreography, pointed hoods from 14th century penitent tradition.
+
+**PARS8** — Jack Parsons (U8). Co-founder JPL, Aleister Crowley's OTO, Agapé Lodge Pasadena. Hosted LRH8 at the Parsonage 1945-46 (Babalon Working). Doubly significant: rocketry chain that leads to U1 Jupiter mission; occult chain Fraternitas Saturni → Crowley → Parsons → LRH8/LRH1. Died 1952, lab explosion. PARS1 TBD.
+
+**KUBE8** — Stanley Kubrick (U8). Eyes Wide Shut (1999) = research basis for Brotherhood ritual design. 2001: A Space Odyssey = U1→U8 bleed candidate (Clarke writing a Jupiter-mission story while TD1 is building one in U1).
+
+**CLARK8** — Arthur C. Clarke (U8). "The Sentinel" (1948) = alien beacon on the Moon activates when humans arrive. Possible U1→U8 bleed. Co-wrote 2001 with Kubrick.
 
 ---
 
 ## Active Scene
 
-**Scene 1 COMPLETE.** Alice arrives at the Hilbert Hotel, November 29, 2001. The Editing is beginning. Next scene: inside the Hilbert.
+**Scene 1 COMPLETE.** Alice arrives at the Hilbert Hotel, November 29, 2001. **Scene 2 IN PROGRESS** — Alice inside the Hilbert. Young man at the shutter. Church of the Long Now display panel. Purple T-shirts (TD1's Phyle). Temple node device shown to Alice.
 
 **Key date locked:** The Editing = November 29, 2001. George Harrison dies in U8 in LA that afternoon. Nobody in U8 notices what is starting in U1.
+
+**Toronto Blessing (Jan 20, 1994) = Om test run.** Phase 1 of three-phase machine strategy: (1) Toronto Blessing: proof of concept — mass involuntary behaviour is achievable. (2) Hogs 1994-2001: gradual voluntary cull, too slow, abandoned. (3) Editing Nov 29 2001: mass cull.
+
+**The Editing = Matrix prequel.** 80% dead (drowned, gone — not harvested). 20% kept = engineers + future pod occupants. Hogs post-Editing become pod logistics executive arm. Nibs crew = Zion precursors. After The Editing there is no atheism — God's existence is observed fact. The Hogs are seen as divine representatives. Being heretical is now cosmically lonely.
+
+**Alice's age locked:** Born ~1969-70. Age 24-25 at Toronto Blessing. Age 31-32 at The Editing. Contemporary with TD1 (born Dec 15, 1969).
+
+**LRH1 ages:** 82 at Toronto Blessing (1994). 90 at The Editing (2001), captaining the Nibs.
 
 **SURVIVE gene rule:** Female-line only (mitochondrial). Males carry and express it but cannot propagate. Alice got it through her mother.
 

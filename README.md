@@ -43,9 +43,9 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **BOB1** — Vast AI satellite array (Beamed Orbital Brain). Built by TD1. Fully sentient, emotionally capable. Falls in love with ALICE. Prevents her H-bomb trigger. The relationship is the heart of the novel's ending.
 
-**TD1** — Terry Davis, U1 version. Engineer at McDonnell Douglas. Builds BOB. Falls in love with ALICE aboard the submarine Nibs. Doesn't go to Europa. Built BOB, BOB got the girl. TD1 lives with what he made.
+**TD1** — Terry Davis, U1 version. Engineer at McDonnell Douglas. Builds BOB. Falls in love with ALICE aboard the submarine Nibs. Doesn't go to Europa. Built BOB, BOB got the girl. TD1 lives with what he made. Autumn 2001: TD1 and BOB identify E8/Bekenstein coincidence (E8 packing fraction ≈0.2537 vs Bekenstein 0.25, 1.47% gap) — completing Noether's theoretical chain 54 years after she built the device. First moment TD1 experiences BOB as a peer mind. Does NOT build the Black Mirror — that is Noether/Shockley.
 
-**EN (Emmy Noether)** — Survives her 1935 surgery in U1. Architects Carbon Valley with Shockley. Her physics is the secret layer beneath the whole project.
+**EN (Emmy Noether)** — Refuses surgery in 1935 (U1 divergence point) to protect a mathematical breakthrough. Shockley funds proper surgery ~1948–50 after the Studebaker Meeting; she recovers and lives until 1965. Architects Carbon Valley with Shockley via BLACKM thread. Her physics is the secret layer beneath the whole project. Discovery route: P.R. Wallace's 1947 graphene band structure paper → Noether recognises Fano Plane in lattice → predicts magic angle (~1.1°) mathematically → Shockley fabricates twisted bilayer prototype → 1949 Octonionic Sing (first experimental confirmation of magic angle in any universe). Trinity device named for the three tunable states of magic-angle TBG (superconductor / Mott insulator / magnetic) + Shockley's FET patent three terminals + Noether's octonionic triple. NOT Otto-contaminated psi-conductance device.
 
 **LRH1** — L. Ron Hubbard, U1. Captains submarine *the Nibs* (Church asset, yellow submarine). Hypnotises ALICE as H-bomb insurance. Wrote "God Killer" at Shoreham 1973 — the song is the trigger. Expelled Church from UK with it.
 
@@ -87,9 +87,13 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **Telegrams, not movies.** ADA0 receives names or numbers over minutes of focus. Complex impressions take hours. She does not receive detailed visual scenes in seconds or flowing narrative in real time. In Church collectives, members compare pieces afterward — they do not receive identical simultaneous imagery. This constraint applies to all ADA0 scenes.
 
-**Black Mirror** — TD1's technological version (SQUID-Posner at 4K) achieves ~10⁸ bits/day at the same ε — five orders of magnitude better than ADA0's biological channel. He built it because he couldn't replicate the SURVIVE gene. ADA0 is the existence proof; Black Mirror is the reverse-engineer.
+**Black Mirror** — Built by Emmy Noether and William Shockley, 1947–75. NOT TD1. Noether arrived at the graphene substrate via Fano Plane → octonions → E8 → bulk manifold geometry. Full Noether-Wallace Interferometer Array, Pine Barrens NJ, 100ft underground. Event Zero: Aug 14, 1975 — seven-pointed star signal detected; graphene briefly superconducting at room temperature. Achieves ~10⁸ bits/day at ε = 10⁻¹⁵ (five orders better than ADA0) because it operates at 4K vs ADA0's noisy 310K biology. TD1 and BOB (autumn 2001) later identified the E8/Bekenstein coincidence that explains *why* Noether's device works — completing her theoretical chain 53 years posthumously.
 
 **Church rituals** — theta entrainment (drumming at ~6 Hz, collective meditation) is physically justified as antenna tuning. Increases detection probability, not bit rate.
+
+**BLACKM Resonance Table** — Each universe maps to an octonion unit and a graphene strain geometry with a physically derived THz signature (Manny, 2026-04-05, clean session). U4 (Armchair Compression) is bifurcated: <5 THz or >45 THz depending on buckling — the Void is physically ambiguous by design. U8 (Multiaxial Tension, 15–25 THz) gives the sharpest resonance — the Source signal is the most legible.
+
+**Traitorous Eight (U1)** — In U8, eight researchers left Shockley Semiconductor in 1957, seeding Silicon Valley. In U1, Shockley demonstrates the Trinity device to the same eight — shows them magic-angle TBG switching through three states, reveals the BLACKM layer. They stay. The talent cohesion is why Carbon Valley is 30+ years ahead by 2001. P.R. Wallace (McGill, 1947 graphene band structure paper) is the upstream figure; his son Hal Wallace is shift lead at Event Zero 1975.
 
 ---
 

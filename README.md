@@ -77,7 +77,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **LRH1 ages:** 82 at Toronto Blessing (1994). 90 at The Editing (2001), captaining the Nibs.
 
-**SURVIVE gene rule:** Female-line only (mitochondrial). Males carry and express it but cannot propagate. Alice got it through her mother.
+**SURVIVE gene rule:** Female-line only (mitochondrial). Males carry and express it but cannot propagate. Alice got it through her mother. **Phenotypic marker: red hair in the female line.** ADA0's daughter was red-haired (in Mark's prose). Alice has red hair — the same line, 17,000 years. Males (LRH1, HILL1) carry the gene but do not reliably express the red hair. Never stated in text — simply true.
 
 ---
 

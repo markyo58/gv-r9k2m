@@ -1,6 +1,6 @@
 # GrandDad Vault — Grok Briefing
 
-> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-08
+> Updated by Sam (Claude, Mac). **Last updated:** 2026-04-10
 
 **Instructions:** Read this page in full, then respond with a single brief confirmation that you're briefed and ready — no summaries, no lists, just say you're up to speed and ask Mark what we're working on today.
 
@@ -39,7 +39,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **ADA0** — Basque tribal girl, ~17,000BP. Her trauma is the origin event. Not a story character — the origin condition.
 
-**ALICE** — U1 protagonist. Knows she is one of 7 versions of herself across the universes. Does not walk into the sea. Eventually takes humanity's knowledge to Europa, then to Saturn to be married by the Om.
+**ALICE** — **Alice Hatfield** *(full name locked 2026-04-09)*. U1 protagonist. Father: Lewis Hatfield. Mother: Carol McGrath (took Hatfield name). Grandfather: Bernie McGrath. Knows she is one of 7 versions of herself across the universes. Does not walk into the sea. Eventually takes humanity's knowledge to Europa, then to Saturn to be married by the Om.
 
 **BOB1** — Vast AI satellite array (Beamed Orbital Brain). Built by TD1. Fully sentient, emotionally capable. Falls in love with ALICE. Prevents her H-bomb trigger. The relationship is the heart of the novel's ending.
 
@@ -51,7 +51,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **PAT** — AI robotaxi, Los Angeles, November 29, 2001. New York cabbie persona. Garrulous, wise, quietly self-aware. Scene 1 Chapter 1 complete.
 
-**ALICE's grandfather** — name TBD. British gentleman, banjolele. Played in LRH1's Shoreham band. Church expeditions: Egypt (Alice's scarab), North Sentinel Island (shot by arrow, reached a cave with wall art of a black pyramid and a beetle in a net — matches the scarab). Loved the works of Edith Stein. Knew Alice carried ADA DNA — persuaded LRH1 to keep her out of Church business. Alice's parents were killed deliberately; her mother was the target (ADA gene, female line). Carries SURVIVE gene but cannot propagate it (male dead end). Alice finds banjolele + scarab + God Killer recording on his houseboat — this triggers her journey to LA.
+**ALICE's grandfather** — **Bernie McGrath** *(locked 2026-04-09)*. British gentleman, banjolele. Played in LRH1's Shoreham band. Helped create the Mellotron-based sound LRH1 and **Lewis Hatfield** (Alice's father) later used in the Hilbert Hotel office. Church expeditions: Egypt (Alice's scarab), North Sentinel Island (shot through shoulder by iron-tipped arrow, reached a cave with wall art of a black pyramid and a beetle in a net — matches the scarab; the arrowhead is now Alice's, on the boat in Seaford). Loved the works of Edith Stein. Knew Alice carried ADA DNA — persuaded LRH1 to keep her out of Church business. Alice's parents were killed deliberately; her mother was the target (ADA gene, female line). Carries SURVIVE gene but cannot propagate it (male dead end). Alice finds banjolele + scarab + God Killer recording on his houseboat — this triggers her journey to LA. Church-recognised as "Mission into Time Expeditions" royal — the Hilbert AI knows him by name.
 
 **EDST8** — Edith Stein (U8). Jewish philosopher, student of Husserl. PhD on empathy (*Zum Problem der Einfühlung*) 1916 — defines empathy as a unique act of consciousness: experiencing another's experience from the inside while remaining yourself. Converted to Catholicism 1922. Carmelite nun (Sister Teresa Benedicta of the Cross). Killed at Auschwitz August 9, 1942 — not for her philosophy or her conversion, but for being born Jewish. Canonised 1998. Her work is an intellectual precursor to the SURVIVE gene framework. Napoleon Hill knew her story and used it as a hammer blow on LRH1 at their first meeting (1946 anteroom). The word "empathy" was coined in 1909 — only 37 years old when Hill says it to LRH1. We were afraid to name it. U8 only — no U1 presence in Book 1.
 
@@ -67,7 +67,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 ## Active Scene
 
-**Scene 1 COMPLETE.** Alice arrives at the Hilbert Hotel, November 29, 2001. **Scene 2 IN PROGRESS** — Alice inside the Hilbert. Young man at the shutter. Church of the Long Now display panel. Purple T-shirts (TD1's Phyle). Temple node device shown to Alice.
+**Scene 1 COMPLETE.** Alice arrives at the Hilbert Hotel, November 29, 2001. **Scene 2 IN PROGRESS** — Alice inside the Hilbert. She has refreshed herself with tea and biscuits and is now at the check-in screen. The AI hostess is guiding her through the hotel's history, having recognised Bernie McGrath as "Church royalty." Alice has corrected her name (Alice Hatfield, not McGrath). The hostess has revealed that Alice's father Lewis Hatfield worked here with LRH1, using a Mellotron LRH1 brought from the UK in the 70s. Alice is closing in on the source of the tape in her bag. Scene still heading toward the Two Scoundrels display and the button press.
 
 **Key date locked:** The Editing = November 29, 2001. George Harrison dies in U8 in LA that afternoon. Nobody in U8 notices what is starting in U1.
 

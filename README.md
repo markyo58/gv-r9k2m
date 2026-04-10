@@ -75,7 +75,7 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 **The Editing = Matrix prequel.** 80% dead (drowned, gone — not harvested). 20% kept = engineers + future pod occupants. Hogs post-Editing become pod logistics executive arm. Nibs crew = Zion precursors. After The Editing there is no atheism — God's existence is observed fact. The Hogs are seen as divine representatives. Being heretical is now cosmically lonely.
 
-**Alice's age locked:** Born ~1969-70. Age 24-25 at Toronto Blessing. Age 31-32 at The Editing. Contemporary with TD1 (born Dec 15, 1969).
+**Alice's age locked:** Born ~1977. Age ~16-17 at Toronto Blessing. Age ~24 at The Editing. *(locked 2026-04-10)*
 
 **LRH1 ages:** 82 at Toronto Blessing (1994). 90 at The Editing (2001), captaining the Nibs.
 

@@ -85,6 +85,9 @@ Multi-universe literary science fiction. Eight universes exist simultaneously, d
 
 ## Physics Canon (locked — do not contradict)
 
+**Geometric Foundation — Octonionic Hopf Fibration (locked 2026-04-10):**
+The ARC manifold is an 8-sphere ($S^8$). This is the actual physical arena — not an approximation. The universe has 8 real dimensions; we perceive 4 (3 space + 1 time). The Octonionic Hopf Fibration ($S^{15} \to S^8$, fiber $S^7$) is the geometric spine: the $S^7$ fiber is the "bulk" — the hidden reservoir where other-universe information lives, invisible to base-space observers. This is why cross-universe signals are partial and faint. Non-associativity operates in the fiber; at the base-space level it collapses to normal associative physics, which is why everyday reality works normally. Hurwitz's Theorem guarantees there is no deeper level — the octonions are terminal. In U1, Option 1 was experimentally confirmed by Noether's Black Mirror (1975) and by the SURVIVE gene (continuous biological detection since ~15,000BC). In U8, this is live science: Eöt-Wash gravity tests, LHC Kaluza-Klein searches, Cohl Furey's algebraic Standard Model derivation. Do not contradict this layer. Do not go deeper.
+
 **ADA0 Detection Framework** — locked 2026-04-02. ADA0 receives information from the bulk-brane manifold via a six-layer biological detector: Posner molecules → cryptochrome array (SURVIVE gene) → theta synchrony filter → Orch-OR → conscious awareness. Coupling strength ε = 10⁻¹⁵ (canon). Bit rate: ~1,000 bits/day = ~1 bit/minute during focused theta-entrained states.
 
 **Telegrams, not movies.** ADA0 receives names or numbers over minutes of focus. Complex impressions take hours. She does not receive detailed visual scenes in seconds or flowing narrative in real time. In Church collectives, members compare pieces afterward — they do not receive identical simultaneous imagery. This constraint applies to all ADA0 scenes.

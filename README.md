@@ -106,7 +106,7 @@ The ARC manifold is an 8-sphere ($S^8$). This is the actual physical arena — n
 
 ## H&H Canon — Locked 2026-04-12
 
-**The Hill/LRH1 meeting (November 1946, South Hope Street LA, veterans' rehabilitation anteroom)** is now fully architected. Key decisions locked:
+**The Hill/LRH1 meeting (November 1946, Fort MacArthur Hospital, San Pedro — anteroom overlooking Terminal Island)** is now fully architected. Key decisions locked:
 
 - LRH1 names Carnegie fabrication — recognition, not attack. Hill owns it: the book needed to exist.
 - **Books are spells. Great authors are magicians who alter the future.** This is Hill's gift to LRH1 — the first framework for what LRH1 has been doing since 1938.
